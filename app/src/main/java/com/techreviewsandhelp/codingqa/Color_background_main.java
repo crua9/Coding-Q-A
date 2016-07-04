@@ -13,6 +13,14 @@ public class Color_background_main extends AppCompatActivity {
     private Button mNext;
     private LinearLayout mLayout;
 
+    /**
+     * need to link the git and YouTube
+     *
+     https://www.youtube.com/watch?v=F-VOzgbk5gI&lc=z12ldb4xouzmjtuuy22jz54zcljsxt5gu04
+
+     https://github.com/crua9/Coding-Q-A/
+     */
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
